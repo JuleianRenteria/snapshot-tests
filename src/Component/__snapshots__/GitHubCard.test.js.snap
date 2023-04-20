@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    alt="Famous Male Lawyer"
+    className="card-img-top "
+    src="{PretendMe}"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+       Juleian Renteria 
+    </div>
+    <div
+      className="mb-2 text-muted card-subtitle h6"
+    >
+       Starting Up Software Developer 
+    </div>
+    <p
+      className="card-text"
+    >
+      Hi! My name is Juleian Renteria and I am pursuing a career in Software 
+      Development. I am a father of 2 and plan to be married once my Coding career takes off!
+    </p>
+    <a
+      className="card-link"
+      href="https://github.com/JuleianRenteria"
+    >
+       Find me on Github Here! 
+    </a>
+  </div>
+</div>
+`;
